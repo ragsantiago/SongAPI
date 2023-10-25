@@ -1,38 +1,65 @@
 [
-    {
-      "id": 1,
-      "song": "Stay",
-      "artist": "BLACKPINK",
-      "genre": "Folk pop",
-      "link": "https://youtu.be/FzVR_fymZw4?si=Jwf-CW15cr8lAauG"
-    },
-    {
-      "id": 2,
-      "song": "Green Tea & Honey",
-      "artist": "Dane Amar",
-      "genre": "Hip-Hop/Rap",
-      "link": "https://youtu.be/Xn64XCXBsoo?si=E8dOtCRxUCKVxVd1"
-    },
-    {
-        "id": 3,
-        "song": "Unlearn You",
-        "artist": "Keenan Te",
-        "genre": "Pop",
-        "link": "https://youtu.be/SZs9G4nVgiI?si=aMTwehR_5Ei-BBfr"
-      },
-      {
-        "id": 4,
-        "song": "Someone will love you better",
-        "artist": "Johnny Orlando",
-        "genre": "Pop",
-        "link": "https://youtu.be/1skpo8ziUsA?si=fGAbxewsfaF4JlbI"
-      },
-      {
-        "id": 5,
-        "song": "My Favourite Clothes",
-        "artist": "RINI",
-        "genre": "R&B/Soul",
-        "link": "https://youtu.be/oNIBAL8x9-4?si=mjtElgjdhV3_5p2o"
-      }
-  ]
-  
+  {
+    "id": 1,
+    "song": "Stay",
+    "artist": "BLACKPINK",
+    "genre": "Folk pop",
+    "link": "https://youtu.be/FzVR_fymZw4?si=Jwf-CW15cr8lAauG"
+  },
+  {
+    "id": 2,
+    "song": "Green Tea & Honey",
+    "artist": "Dane Amar",
+    "genre": "Hip-Hop/Rap",
+    "link": "https://youtu.be/Xn64XCXBsoo?si=E8dOtCRxUCKVxVd1"
+  },
+  {
+    "id": 3,
+    "song": "Unlearn You",
+    "artist": "Keenan Te",
+    "genre": "Pop",
+    "link": "https://youtu.be/SZs9G4nVgiI?si=aMTwehR_5Ei-BBfr"
+  },
+  {
+    "id": 4,
+    "song": "Someone will love you better",
+    "artist": "Johnny Orlando",
+    "genre": "Pop",
+    "link": "https://youtu.be/1skpo8ziUsA?si=fGAbxewsfaF4JlbI"
+  },
+  {
+    "id": 5,
+    "song": "My Favourite Clothes",
+    "artist": "RINI",
+    "genre": "R&B/Soul",
+    "link": "https://youtu.be/oNIBAL8x9-4?si=mjtElgjdhV3_5p2o"
+  },
+  {
+    "id": 6,
+    "song": "This Time",
+    "artist": "Jeff Bernat",
+    "genre": "R&B/Soul",
+    "link": "https://youtu.be/Lt315PJvY9o?si=iuw5qFzwFKTZZ3kD"
+  },
+  {
+    "id": 7,
+    "song": "7UP",
+    "artist": "Boy In Space ",
+    "genre": "Pop",
+    "link": "https://youtu.be/cgyYXw7qLQg?si=rz8yozvU2V6ry2a7"
+  },
+  {
+    "id": 8,
+    "song": "DAY 1",
+    "artist": "HONNE",
+    "genre": "R&B",
+    "link": "https://youtu.be/hWOB5QYcmh0?si=c7lY5r4haVsronsu"
+  },
+  {
+    "id": 9,
+    "song": "I Really Like You",
+    "artist": "Reon",
+    "genre": "Pop",
+    "link": "https://youtu.be/m-2NhaTEqhE?si=iplfd4OJvd-Ih7Y4"
+  }
+]
